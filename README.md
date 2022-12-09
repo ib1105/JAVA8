@@ -13,5 +13,5 @@ Foo4,Foo5
 4.메소드 래퍼런스
 App, Greeting
 
-#자바8 API의 기본메소드:forEach() 함수
+#자바8 API의 기본메소드:forEach() 함수<br>
 APP2
